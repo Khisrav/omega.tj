@@ -1,4 +1,4 @@
-# omega.tj
+# omega.tj - School Management System
 
 ## Project setup
 ```
