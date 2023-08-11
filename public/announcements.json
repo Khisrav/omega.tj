@@ -1,0 +1,63 @@
+[
+    {
+      "id": 0,
+      "title": "Lorem Ipsum",
+      "date": "2023-08-03",
+      "text": "<p>Lorem ipsum <strong>dolor sit amet</strong>, consectetur adipiscing elit. Nulla facilisi.</p>"
+    },
+    {
+      "id": 1,
+      "title": "Breaking News",
+      "date": "2023-08-03",
+      "text": "<p>Sed dictum <em>dolor nec ex interdum</em>, at finibus libero euismod.</p>"
+    },
+    {
+      "id": 2,
+      "title": "Technology Advancements",
+      "date": "2023-08-03",
+      "text": "<p>Praesent venenatis ex eget nisl <a href=\"#\">auctor rhoncus</a>.</p>"
+    },
+    {
+      "id": 3,
+      "title": "Sports Update",
+      "date": "2023-08-03",
+      "text": "<p>Vivamus congue urna eu quam dignissim, <em>non aliquam ex aliquam</em>.</p>"
+    },
+    {
+      "id": 4,
+      "title": "Weather Forecast",
+      "date": "2023-08-03",
+      "text": "<p>Proin sit amet magna nec <strong>justo auctor vehicula</strong>.</p>"
+    },
+    {
+      "id": 5,
+      "title": "Entertainment Buzz",
+      "date": "2023-08-03",
+      "text": "<p>Donec posuere turpis nec nunc rhoncus, in <em>vehicula libero gravida</em>.</p>"
+    },
+    {
+      "id": 6,
+      "title": "Health and Wellness",
+      "date": "2023-08-03",
+      "text": "<p>Cras tincidunt est in purus vulputate, sit amet euismod justo venenatis.</p>"
+    },
+    {
+      "id": 7,
+      "title": "Business Insights",
+      "date": "2023-08-03",
+      "text": "<p>Duis consectetur velit sit amet elit ultricies, ut dignissim dolor ullamcorper.</p>"
+    },
+    {
+      "id": 8,
+      "title": "Science Discoveries",
+      "date": "2023-08-03",
+      "text": "<p>Fusce vehicula ex at ligula rhoncus facilisis.</p>"
+    },
+    {
+      "id": 9,
+      "title": "Education Matters",
+      "date": "2023-08-03",
+      "text": "<p>Maecenas posuere tortor vel varius condimentum.</p>"
+    }
+  ]
+  

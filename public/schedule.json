@@ -1,0 +1,154 @@
+[
+    [
+        {
+            "time": ["8:00", "9:45"],
+            "subject": "Monday",
+            "teacher": "Smith J.",
+            "topic": "Chemical Reactions",
+            "homework": "Complete Worksheet 1"
+        },
+        {
+            "time": ["10:00", "11:45"],
+            "subject": "Biology",
+            "teacher": "Johnson A.",
+            "topic": "Photosynthesis",
+            "homework": "Read Chapter 5"
+        },
+        {
+            "time": ["9:00", "10:45"],
+            "subject": "Chemistry",
+            "teacher": "Brown K.",
+            "topic": "Acids and Bases",
+            "homework": "Experiment Report"
+        },
+        {
+            "time": ["1:30", "3:15"],
+            "subject": "Computer Science",
+            "teacher": "Wills L.",
+            "topic": "Introduction to Programming",
+            "homework": "Write a simple program"
+        }
+    ],
+
+    [
+        {
+            "time": ["9:00", "10:45"],
+            "subject": "Chemistry",
+            "teacher": "Brown K.",
+            "topic": "Acids and Bases",
+            "homework": "Experiment Report"
+        },
+        {
+            "time": ["11:00", "12:45"],
+            "subject": "Biology",
+            "teacher": "Davis M.",
+            "topic": "Genetics",
+            "homework": "Answer Review Questions"
+        },
+        {
+            "time": ["2:00", "3:45"],
+            "subject": "Computer Science",
+            "teacher": "Miller S.",
+            "topic": "Data Structures",
+            "homework": "Implement a linked list"
+        }
+    ],
+
+    [
+        {
+            "time": ["8:30", "10:15"],
+            "subject": "Chemistry",
+            "teacher": "Wilson P.",
+            "topic": "Stoichiometry",
+            "homework": "Balancing Equations"
+        },
+        {
+            "time": ["10:30", "12:15"],
+            "subject": "Biology",
+            "teacher": "Martinez R.",
+            "topic": "Ecology",
+            "homework": "Research Project"
+        },
+        {
+            "time": ["2:30", "4:15"],
+            "subject": "Computer Science",
+            "teacher": "Taylor D.",
+            "topic": "Object-Oriented Programming",
+            "homework": "Create a class hierarchy"
+        }
+    ],
+
+    [
+        {
+            "time": ["8:15", "10:00"],
+            "subject": "Chemistry",
+            "teacher": "Anderson J.",
+            "topic": "Thermodynamics",
+            "homework": "Problem Set 2"
+        },
+        {
+            "time": ["10:15", "12:00"],
+            "subject": "Biology",
+            "teacher": "Hernandez T.",
+            "topic": "Cell Biology",
+            "homework": "Lab Report"
+        },
+        {
+            "time": ["1:45", "3:30"],
+            "subject": "Computer Science",
+            "teacher": "Moore G.",
+            "topic": "Algorithms",
+            "homework": "Algorithm Analysis"
+        }
+    ],
+
+    [
+        {
+            "time": ["9:30", "11:15"],
+            "subject": "Chemistry",
+            "teacher": "Jackson C.",
+            "topic": "Periodic Table",
+            "homework": "Element Research"
+        },
+        {
+            "time": ["11:30", "1:15"],
+            "subject": "Biology",
+            "teacher": "Garcia E.",
+            "topic": "Evolution",
+            "homework": "Read Chapter 8-10"
+        },
+        {
+            "time": ["3:00", "4:45"],
+            "subject": "Computer Science",
+            "teacher": "Lee H.",
+            "topic": "Database Management",
+            "homework": "Design a database schema"
+        }
+    ],
+
+    [
+        {
+            "time": ["8:15", "10:00"],
+            "subject": "Shanbe",
+            "teacher": "Anderson J.",
+            "topic": "Thermodynamics",
+            "homework": "Problem Set 2"
+        },
+        {
+            "time": ["10:15", "12:00"],
+            "subject": "Biology",
+            "teacher": "Hernandez T.",
+            "topic": "Cell Biology",
+            "homework": "Lab Report"
+        },
+        {
+            "time": ["1:45", "3:30"],
+            "subject": "Computer Science",
+            "teacher": "Moore G.",
+            "topic": "Algorithms",
+            "homework": "Algorithm Analysis"
+        }
+    ],
+
+    []
+]

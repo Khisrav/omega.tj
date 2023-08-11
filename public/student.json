@@ -1,0 +1,30 @@
+{
+    "name": "Хисрав",
+    "surname": "Худоёров",
+    "grade": "11А",
+    "avatar": "/assets/img/student-avatar.jpg",
+    "performance": [
+        {
+            "subject": "Таърих",
+            "teacher": "Рабиев Б.",
+            "marks": [
+                ["Sep", 2, 5],
+                ["Sep", 7, 4],
+                ["Sep", 20, 3],
+                ["Oct", 1, 2],
+                ["Oct", 15, 0]
+            ]
+        },
+        {
+            "subject": "Тарбияи чисмони",
+            "teacher": "Табаров И.",
+            "marks": [
+                ["Sep", 2, 5],
+                ["Sep", 7, 4],
+                ["Sep", 20, 3],
+                ["Oct", 1, 5],
+                ["Oct", 15, 0]
+            ]
+        }
+    ]
+}
